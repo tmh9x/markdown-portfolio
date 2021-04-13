@@ -1,0 +1,4 @@
+* Konfektionsgrößen
+  * S
+  * M
+  * L
